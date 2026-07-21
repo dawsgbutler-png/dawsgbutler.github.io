@@ -18,3 +18,19 @@
 .capstone-page .capstone-gallery .gallery-item figcaption strong{color:var(--ink)}
 .capstone-page .capstone-gallery .gallery-wide{grid-column:1/-1;max-width:900px;width:100%;justify-self:center}
 @media(max-width:900px){.capstone-page .capstone-gallery .gallery-wide{grid-column:auto;max-width:none}}
+
+
+/* Version 2.4 refinements */
+.case-intro h2,.result-card h2{font-size:clamp(2rem,3vw,3.15rem);line-height:1.05;letter-spacing:-.045em;margin:0;}
+.project-hero-copy .kicker,.section-heading .eyebrow,.eyebrow{font-size:.78rem;}
+.skid-gallery .gallery-item img{aspect-ratio:4/3;object-fit:cover;}
+.skid-gallery .gallery-item figcaption strong,.capstone-gallery .gallery-item figcaption strong{color:var(--ink);display:inline;}
+.skid-gallery .gallery-video video{aspect-ratio:16/9;}
+.capstone-page .project-hero-media{align-self:start;}
+.capstone-page .slide-frame{background:var(--panel);padding:18px;}
+.capstone-page .slide-frame img{background:#fff;border-radius:14px;box-shadow:none;object-fit:cover;aspect-ratio:16/10;}
+.capstone-page .capstone-gallery{grid-template-columns:1fr;max-width:1040px;margin:0 auto;gap:22px;}
+.capstone-page .capstone-gallery .gallery-item{overflow:hidden;border-radius:18px;}
+.capstone-page .capstone-gallery .gallery-item img{width:100%;height:auto;aspect-ratio:auto;object-fit:contain;background:#fff;padding:10px;}
+.capstone-page .capstone-gallery .gallery-item figcaption{min-height:0;font-size:.92rem;line-height:1.55;padding:18px 20px;}
+@media(min-width:901px){.capstone-page .project-hero{align-items:start;}.capstone-page .project-hero-media img{max-height:none;}}
