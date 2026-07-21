@@ -1,0 +1,360 @@
+{
+  "profile": {
+    "name": "Dawson Butler",
+    "title": "Mechanical Engineering Student",
+    "school": "University of Tennessee, Knoxville",
+    "minor": "Aerospace Engineering Minor",
+    "graduation": "May 2028",
+    "locations": "Charlotte, NC \u2022 Knoxville, TN",
+    "email": "dawsgbutler@gmail.com",
+    "phone": "(980) 287-6058",
+    "linkedin": "https://www.linkedin.com/in/dawsonbutler",
+    "github": "https://github.com/dawsgbutler-png",
+    "live_url_current": "https://dawsgbutler-png.github.io/dawsgbutler.github.io/"
+  },
+  "projects": [
+    {
+      "id": "assistive-navigation-robot",
+      "number": "01",
+      "title": "Assistive Navigation Robot",
+      "eyebrow": "ROBOTICS \u2022 MATLAB \u2022 ASSISTIVE DESIGN",
+      "card": "A six-month team project combining spatial detection, audible warnings, and separation alerts to support safer walking for a visually impaired user.",
+      "hero": "assistive-robot.webp",
+      "hero_alt": "Tracked classroom robot with sensors, microcontrollers, servos, wiring, and 3D printed components.",
+      "org": "University Coding Course",
+      "timeline": "Six-month design cycle",
+      "team": "Team of five",
+      "tools": [
+        "MATLAB",
+        "Sensor integration",
+        "COTS hardware",
+        "Mechanical assembly",
+        "Rapid prototyping"
+      ],
+      "challenge": "Create an affordable assistive device that could help a visually impaired person recognize nearby obstacles and alert a trusted contact if the user became separated from the robot. The project required our team to integrate code, sensors, electronics, mechanical assembly, and a simple user interaction into one working prototype.",
+      "role": "I worked on a five-person team through a full six-month design and build cycle. My responsibilities included assembly, component integration, MATLAB development, troubleshooting, test planning, and helping translate the accessibility concept into a functioning prototype.",
+      "process": [
+        [
+          "Define the user need",
+          "We chose an assistive walking concept rather than a general demonstration robot, which gave every design decision a clear purpose."
+        ],
+        [
+          "Integrate sensing and feedback",
+          "The robot used spatial detection to identify nearby obstacles and produce an audible warning as the user approached them."
+        ],
+        [
+          "Add separation monitoring",
+          "A tether or \u201cleash\u201d provided another safety layer. If the connection pulled away, the system initiated a message to a designated contact."
+        ],
+        [
+          "Test and refine",
+          "We repeatedly adjusted code, wiring, sensor behavior, and the physical layout until the hardware and software behaved as one system."
+        ]
+      ],
+      "outcome": "The prototype completed the required functions, and our team earned an A on the final project. More importantly, it showed me how mechanical systems, sensors, and software must be designed together around the person using them.",
+      "learning": "This was my steepest coding learning curve. I did not begin the project as a confident programmer, but six months of MATLAB development and hardware troubleshooting made me much more comfortable learning unfamiliar technical tools and contributing across disciplines.",
+      "gallery": [
+        [
+          "assistive-robot.webp",
+          "Final prototype showing the compact tracked platform, control electronics, sensors, wiring, and 3D printed mounting components."
+        ]
+      ],
+      "next": "sherpa-drone.html"
+    },
+    {
+      "id": "sherpa-drone",
+      "number": "02",
+      "title": "Sherpa Cleaning Drone Production",
+      "eyebrow": "ROBOTICS \u2022 MANUFACTURING \u2022 ELECTROMECHANICAL",
+      "card": "Ground-up assembly, wiring, testing, troubleshooting, and production improvement for Lucid Bots\u2019 commercial exterior-cleaning drone.",
+      "hero": "sherpa-drone.webp",
+      "hero_alt": "Open Sherpa cleaning drone showing frame, arms, wiring, power electronics, circuit boards, and 3D printed parts.",
+      "org": "LUCID Bots",
+      "timeline": "2025\u20132026",
+      "team": "Cross-functional production team",
+      "tools": [
+        "Electromechanical assembly",
+        "Wiring",
+        "System testing",
+        "Troubleshooting",
+        "3D printing",
+        "Hand and power tools"
+      ],
+      "challenge": "Build reliable commercial cleaning drones during a high-demand production period while maintaining quality across mechanical assembly, power systems, wiring, controls, printed components, and final testing.",
+      "role": "I worked with the production team from the ground up on complete drone builds. That included arm and frame assembly, wiring, component installation, fit-up corrections, testing, troubleshooting, and communicating recurring issues back to engineers and team leads.",
+      "process": [
+        [
+          "Build complete systems",
+          "Rather than focusing on one repetitive subassembly, I learned the full product and moved across arms, frame hardware, electronics, wiring, and final integration."
+        ],
+        [
+          "Use in-house manufacturing",
+          "The vertically integrated environment included extensive in-house 3D printing, giving me practical experience with print quality, part fit, iteration, and the relationship between CAD geometry and assembly."
+        ],
+        [
+          "Troubleshoot at the source",
+          "When a component did not fit or a system did not behave correctly, I traced the problem through the mechanical and electrical interfaces instead of treating it as an isolated defect."
+        ],
+        [
+          "Improve production flow",
+          "Our team recovered a major production backlog and, during the busy season, eventually reached a pace that temporarily outstripped sales demand and created finished inventory."
+        ]
+      ],
+      "outcome": "The experience taught me how a real robotics product moves from components to a tested machine. I gained confidence working across mechanical and electrical systems while helping a small manufacturing team improve throughput without losing sight of quality.",
+      "learning": "A well-designed product is only successful when it can be assembled consistently. The strongest engineering improvements often came from technicians noticing recurring fit, routing, access, or quality problems and communicating them clearly.",
+      "gallery": [
+        [
+          "sherpa-drone.webp",
+          "An open Sherpa drone during production, showing the density of mechanical, electrical, and printed subsystems integrated into the final platform."
+        ]
+      ],
+      "source": "https://www.lucidbots.com/sherpa-drone",
+      "next": "modular-skid.html"
+    },
+    {
+      "id": "modular-skid",
+      "number": "03",
+      "title": "Modular Electrical Skid: Model to Field",
+      "eyebrow": "REVIT \u2022 VDC \u2022 CONSTRUCTABILITY \u2022 FIELD ENGINEERING",
+      "card": "A fast Revit ramp-up on a multi-hundred-million-dollar data center project, carrying modular skid work from submittal and modeling through fabrication and a field lift.",
+      "hero": "skid-model.webp",
+      "hero_alt": "Three-dimensional Revit coordination model of a modular electrical skid with structure, equipment, and routed systems.",
+      "org": "Gaylor Electric",
+      "timeline": "Summer 2026",
+      "team": "VDC, prefab, engineering, and field teams",
+      "tools": [
+        "Autodesk Revit",
+        "Inventor",
+        "AutoCAD",
+        "Bluebeam Revu",
+        "Autodesk Construction Cloud",
+        "Evolve"
+      ],
+      "challenge": "Rapidly become productive in professional Revit and VDC workflows while supporting modular electrical skids on a multi-hundred-million-dollar data center project. The design had to move cleanly from submittal information to coordinated model content, published sheets, fabrication, and field installation.",
+      "role": "I created and revised skid-related model content, interpreted project prints and submittals, checked dimensions and constructability, supported drawing production, and used Revit, Inventor, AutoCAD, Bluebeam Revu, Autodesk Construction Cloud, and Evolve throughout the workflow. I also supported the calculations and planning associated with lifting the completed assembly.",
+      "process": [
+        [
+          "Translate source information",
+          "I converted 2D prints, AutoCAD details, equipment information, and existing plans into coordinated 3D content."
+        ],
+        [
+          "Design for fabrication",
+          "The model had to represent how the frame, equipment, mounting conditions, and routed systems would actually be assembled in the prefab environment."
+        ],
+        [
+          "Document and coordinate",
+          "I supported the path from submittal review to published sheets while checking dimensions, installation details, and potential conflicts before field work."
+        ],
+        [
+          "Connect calculations to execution",
+          "The project became real when I watched a skid influenced by my modeling and calculations being lifted roughly 50 feet into position on the jobsite."
+        ]
+      ],
+      "outcome": "This project compressed a major learning curve into one internship. I went from learning company Revit standards to contributing on a high-value project and then seeing coordinated digital work become a fabricated and installed assembly.",
+      "learning": "The most rewarding part of VDC is the closed loop between model, shop, and field. A clean model is not the finish line\u2014the real test is whether the information supports safe fabrication, predictable installation, and confident field execution.",
+      "video": true,
+      "gallery": [
+        [
+          "skid-model.webp",
+          "Sanitized coordination view showing the skid structure and integrated systems without client-identifying details."
+        ],
+        [
+          "skid-assembly-poster.webp",
+          "Frame assembly time-lapse captured during prefab production."
+        ],
+        [
+          "skid-lift.webp",
+          "Completed skid suspended during field installation. Proprietary dimensions and client details are intentionally omitted."
+        ]
+      ],
+      "next": "lavo-prototype.html"
+    },
+    {
+      "id": "lavo-prototype",
+      "number": "04",
+      "title": "Lavo Bot Prototype Development",
+      "eyebrow": "PROTOTYPING \u2022 TESTING \u2022 PRODUCT DEVELOPMENT",
+      "card": "Hands-on research, testing, and prototype iteration on a pressure-washing robot that became my introduction to engineering product development.",
+      "hero": "lavo-prototype.webp",
+      "hero_alt": "Opened Lavo Bot prototype showing surface cleaner, frame, motors, wiring, controls, and mechanical components.",
+      "org": "LUCID Bots",
+      "timeline": "Early engineering experience",
+      "team": "Direct collaboration with company leadership and engineers",
+      "tools": [
+        "Prototype assembly",
+        "Mechanical testing",
+        "Research and design",
+        "Troubleshooting",
+        "Electromechanical systems"
+      ],
+      "challenge": "Help turn an ambitious pressure-washing robot concept into a more capable, testable product through hands-on prototype work, research, and repeated mechanical and system-level iteration.",
+      "role": "I supported testing, assembly, troubleshooting, research, and design exploration while working closely with the CEO and engineering team on a high-priority prototype. Because the project was personally important to company leadership, I was fortunate to see the intensity and persistence required to develop a product from an early idea.",
+      "process": [
+        [
+          "Understand the system",
+          "Opening the machine and tracing its mechanisms, wiring, drive components, cleaning hardware, and controls taught me to think in complete systems."
+        ],
+        [
+          "Build and test",
+          "I participated in hands-on assembly and testing rather than observing from the sidelines."
+        ],
+        [
+          "Research alternatives",
+          "We considered component choices, layouts, operating behavior, maintenance, and practical user needs while the concept evolved."
+        ],
+        [
+          "Iterate from evidence",
+          "Prototype failures and test results were treated as information that guided the next change."
+        ]
+      ],
+      "outcome": "The Lavo Bot project was my introduction to real engineering development and the experience that got me hooked. It showed me that engineering is not one perfect idea\u2014it is a cycle of building, testing, learning, and improving.",
+      "learning": "Working close to a passionate product leader showed me how much ownership matters. The best prototypes improve quickly when the team is willing to inspect failures honestly, change direction, and keep testing.",
+      "gallery": [
+        [
+          "lavo-prototype.webp",
+          "Opened prototype showing the large cleaning assembly, frame, wiring, drive hardware, and controls used during development work."
+        ]
+      ],
+      "source": "https://lucidbots.com/lavo",
+      "next": "trading-system.html"
+    },
+    {
+      "id": "trading-system",
+      "number": "05",
+      "title": "AI Trading Decision System",
+      "eyebrow": "PYTHON \u2022 APIs \u2022 AUTOMATION \u2022 SYSTEMS THINKING",
+      "card": "A self-directed paper-trading platform built to test AI-assisted decision logic, risk controls, scanning, portfolio rotation, backtesting, and live monitoring.",
+      "hero": "trading-dashboard.webp",
+      "hero_alt": "Dark mission-control dashboard concept for a Python paper-trading system.",
+      "org": "Independent Project",
+      "timeline": "2026\u2013present",
+      "team": "Self-directed with AI-assisted development",
+      "tools": [
+        "Python",
+        "Alpaca API",
+        "Market data APIs",
+        "Automation",
+        "Backtesting",
+        "Risk controls",
+        "Dashboard design"
+      ],
+      "challenge": "Explore how far I could push AI-assisted development by creating a system that evaluates a large stock universe, converts market data into structured decisions, manages risk, executes simulated orders, and explains what it is doing.",
+      "role": "I defined the system requirements, tested the logic, reviewed failures, organized modules, and iterated on the scanner, risk manager, rotation engine, execution workflow, logging, dashboard, and replay tests. The project was built in my free time to learn coding, APIs, automation, and quantitative decision systems.",
+      "process": [
+        [
+          "Design the architecture",
+          "The system separates market data, feature generation, regime detection, scoring, risk management, portfolio rotation, execution, and logging so each part can be tested and improved."
+        ],
+        [
+          "Build a repeatable loop",
+          "Every cycle checks system health, reads current data, evaluates the market regime, scores candidates, reviews positions, applies risk rules, and records the outcome."
+        ],
+        [
+          "Test before trusting",
+          "Paper trading and historical replay testing expose weaknesses without risking real capital."
+        ],
+        [
+          "Improve transparency",
+          "Mission Control summarizes system status, decisions, errors, blocked trades, position changes, and performance instead of hiding the process behind a single output."
+        ]
+      ],
+      "outcome": "The project dramatically expanded my comfort with Python, APIs, debugging, data structures, automation, and system reliability. It also taught me that a sophisticated dashboard is less important than disciplined testing and clear risk controls.",
+      "learning": "AI can accelerate development, but it does not replace engineering judgment. I still have to define requirements, detect incorrect assumptions, compare results, manage edge cases, and decide whether the system is behaving logically.",
+      "gallery": [
+        [
+          "trading-dashboard.webp",
+          "Mission Control interface concept for monitoring paper-trading status, candidates, positions, and activity."
+        ],
+        [
+          "trading-architecture.webp",
+          "System architecture showing data flow, decision modules, execution, feedback, and monitoring."
+        ],
+        [
+          "trading-flow.webp",
+          "Five-minute trading loop from health checks through scoring, risk control, execution, logging, and end-of-day close."
+        ],
+        [
+          "trading-code.webp",
+          "Representative code views for scoring, position sizing, and portfolio rotation logic."
+        ],
+        [
+          "trading-performance.webp",
+          "Sample backtest visualization used to review win rate, drawdown, distribution, and equity behavior. Simulated results only."
+        ]
+      ],
+      "disclaimer": "This is a paper-trading and software-learning project. All displayed trades and performance are simulated or representative and are not financial advice.",
+      "next": "safety-platform.html"
+    },
+    {
+      "id": "safety-platform",
+      "number": "06",
+      "title": "Before the Recordable",
+      "eyebrow": "SAFETY \u2022 PROCESS IMPROVEMENT \u2022 ANALYTICS",
+      "card": "A proactive construction safety concept that turns fast QR-based near-miss reports into leading indicators, corrective actions, and visible trends.",
+      "hero": "safety-platform.webp",
+      "hero_alt": "Before the Recordable construction safety analytics capstone presentation cover.",
+      "org": "Gaylor Electric Capstone",
+      "timeline": "Summer 2026",
+      "team": "Capstone project",
+      "tools": [
+        "QR reporting",
+        "Dashboard design",
+        "Process mapping",
+        "Safety analytics",
+        "Presentation"
+      ],
+      "challenge": "Near misses often contain the earliest evidence of a dangerous pattern, but reporting friction and disconnected follow-up can cause those signals to disappear. The goal was to make reporting easier and turn individual observations into useful leading indicators.",
+      "role": "I developed the concept for a QR-code reporting workflow and a management dashboard that could organize hazard categories, locations, response times, corrective actions, and recurring patterns. I then turned the idea into a structured capstone presentation focused on practical jobsite adoption.",
+      "process": [
+        [
+          "Reduce reporting friction",
+          "A QR code gives field personnel a direct path to a short report instead of requiring a complicated process."
+        ],
+        [
+          "Structure the data",
+          "Consistent fields make it possible to compare events by hazard type, location, timing, and response status."
+        ],
+        [
+          "Reveal weak signals",
+          "A dashboard converts isolated observations into trends that safety leaders can act on before an incident becomes recordable."
+        ],
+        [
+          "Close the loop",
+          "Response tracking and corrective-action visibility show whether a reported concern was acknowledged, assigned, and resolved."
+        ]
+      ],
+      "outcome": "Before the Recordable reframes near-miss reporting as an operational feedback system rather than a compliance task. The concept is designed to help project teams see risk sooner, respond faster, and learn across multiple reports.",
+      "learning": "A useful safety solution must respect field reality. The strongest concept is not the one with the most features\u2014it is the one workers will actually use and leaders can act on quickly.",
+      "gallery": [
+        [
+          "safety-platform.webp",
+          "Capstone identity and presentation cover for the proactive near-miss reporting concept."
+        ]
+      ],
+      "document": "../assets/documents/Before the Recordable Capstone.pptx",
+      "next": "assistive-robot.html"
+    }
+  ],
+  "experience": [
+    {
+      "date": "SUMMER 2026",
+      "role": "College Project Engineer Intern",
+      "company": "Gaylor Electric",
+      "summary": "Supported VDC and prefab workflows for large-scale data center construction through Revit modeling, parametric content, drawing coordination, constructability review, and design-to-field documentation."
+    },
+    {
+      "date": "2025\u20132026 \u2022 PREVIOUS SUMMER 2023",
+      "role": "Robotics Engineering Technician",
+      "company": "LUCID Bots",
+      "summary": "Built and troubleshot complete industrial cleaning robots and drones across mechanical assembly, wiring, testing, 3D printed parts, production quality, and prototype support."
+    },
+    {
+      "date": "2025\u2013PRESENT",
+      "role": "Director of Standards and Construction Project Lead",
+      "company": "Delta Tau Delta Fraternity",
+      "summary": "Lead hands-on chapter construction and improvement work, coordinate event builds, and help manage an $8,000 Homecoming budget across materials, labor, schedule, and delivery."
+    }
+  ],
+  "version": "2.0",
+  "last_updated": "2026-07-21"
+}
