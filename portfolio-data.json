@@ -68,9 +68,9 @@
       "number": "02",
       "title": "Modular Electrical Skid: Model to Field",
       "eyebrow": "REVIT \u2022 VDC \u2022 CONSTRUCTABILITY \u2022 FIELD ENGINEERING",
-      "card": "A fast Revit ramp-up on a multi-hundred-million-dollar data center project, carrying modular skid work from submittal and modeling through fabrication and a field lift.",
-      "hero": "skid-model.webp",
-      "hero_alt": "Three-dimensional Revit coordination model of a modular electrical skid with structure, equipment, and routed systems.",
+      "card": "A fast Revit ramp-up on a multi-hundred-million-dollar data center project, carrying modular skid work from coordinated modeling through fabrication and the field lift.",
+      "hero": "skid-lift.webp",
+      "hero_alt": "Modular electrical skid being hoisted into position on the jobsite during installation.",
       "org": "Gaylor Electric",
       "timeline": "Summer 2026",
       "team": "VDC, prefab, engineering, and field teams",
@@ -107,16 +107,20 @@
       "video": true,
       "gallery": [
         [
-          "skid-model.webp",
-          "Sanitized coordination view showing the skid structure and integrated systems without client-identifying details."
-        ],
-        [
-          "skid-assembly-poster.webp",
-          "Frame assembly time-lapse captured during prefab production."
-        ],
-        [
           "skid-lift.webp",
-          "Completed skid suspended during field installation. Proprietary dimensions and client details are intentionally omitted."
+          "The field lift where the digital work connected directly to jobsite execution."
+        ],
+        [
+          "skid-front-angle.webp",
+          "Three-quarter view of the completed modular electrical skid after assembly."
+        ],
+        [
+          "skid-detail-base.webp",
+          "Close-up of the skid base connection and bolted support hardware."
+        ],
+        [
+          "skid-drawing-revit.webp",
+          "Revit sheet showing the skid frame layout used for coordination and fabrication support."
         ]
       ],
       "next": "assistive-robot.html"
@@ -325,36 +329,7 @@
       ],
       "outcome": "Before the Recordable reframes near-miss reporting as an operational feedback system rather than a compliance task. The concept is designed to help project teams see risk sooner, respond faster, and learn across multiple reports.",
       "learning": "A useful safety solution must respect field reality. The strongest concept is not the one with the most features\u2014it is the one workers will actually use and leaders can act on quickly.",
-      "gallery": [
-        [
-          "capstone/safety-slide-02.webp",
-          "Safety goal, target, and opportunity."
-        ],
-        [
-          "capstone/safety-slide-03.webp",
-          "Lagging recordable rates compared with leading near-miss indicators."
-        ],
-        [
-          "capstone/safety-slide-04.webp",
-          "Research summary covering OSHA, leading indicators, and construction safety research."
-        ],
-        [
-          "capstone/safety-slide-05.webp",
-          "Four-step scan, report, analyze, and act workflow."
-        ],
-        [
-          "capstone/safety-slide-06.webp",
-          "30\u201360 day pilot implementation plan."
-        ],
-        [
-          "capstone/safety-slide-07.webp",
-          "Measures used to evaluate whether the concept is working."
-        ],
-        [
-          "capstone/safety-slide-08.webp",
-          "The end goal: act before the recordable."
-        ]
-      ],
+      "gallery": [],
       "document": "../assets/documents/Before the Recordable Capstone.pptx",
       "next": "sherpa-drone.html"
     }
