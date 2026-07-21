@@ -14,56 +14,8 @@
   },
   "projects": [
     {
-      "id": "assistive-navigation-robot",
-      "number": "01",
-      "title": "Assistive Navigation Robot",
-      "eyebrow": "ROBOTICS \u2022 MATLAB \u2022 ASSISTIVE DESIGN",
-      "card": "A six-month team project combining spatial detection, audible warnings, and separation alerts to support safer walking for a visually impaired user.",
-      "hero": "assistive-robot.webp",
-      "hero_alt": "Tracked classroom robot with sensors, microcontrollers, servos, wiring, and 3D printed components.",
-      "org": "University Coding Course",
-      "timeline": "Six-month design cycle",
-      "team": "Team of five",
-      "tools": [
-        "MATLAB",
-        "Sensor integration",
-        "COTS hardware",
-        "Mechanical assembly",
-        "Rapid prototyping"
-      ],
-      "challenge": "Create an affordable assistive device that could help a visually impaired person recognize nearby obstacles and alert a trusted contact if the user became separated from the robot. The project required our team to integrate code, sensors, electronics, mechanical assembly, and a simple user interaction into one working prototype.",
-      "role": "I worked on a five-person team through a full six-month design and build cycle. My responsibilities included assembly, component integration, MATLAB development, troubleshooting, test planning, and helping translate the accessibility concept into a functioning prototype.",
-      "process": [
-        [
-          "Define the user need",
-          "We chose an assistive walking concept rather than a general demonstration robot, which gave every design decision a clear purpose."
-        ],
-        [
-          "Integrate sensing and feedback",
-          "The robot used spatial detection to identify nearby obstacles and produce an audible warning as the user approached them."
-        ],
-        [
-          "Add separation monitoring",
-          "A tether or \u201cleash\u201d provided another safety layer. If the connection pulled away, the system initiated a message to a designated contact."
-        ],
-        [
-          "Test and refine",
-          "We repeatedly adjusted code, wiring, sensor behavior, and the physical layout until the hardware and software behaved as one system."
-        ]
-      ],
-      "outcome": "The prototype completed the required functions, and our team earned an A on the final project. More importantly, it showed me how mechanical systems, sensors, and software must be designed together around the person using them.",
-      "learning": "This was my steepest coding learning curve. I did not begin the project as a confident programmer, but six months of MATLAB development and hardware troubleshooting made me much more comfortable learning unfamiliar technical tools and contributing across disciplines.",
-      "gallery": [
-        [
-          "assistive-robot.webp",
-          "Final prototype showing the compact tracked platform, control electronics, sensors, wiring, and 3D printed mounting components."
-        ]
-      ],
-      "next": "sherpa-drone.html"
-    },
-    {
       "id": "sherpa-drone",
-      "number": "02",
+      "number": "01",
       "title": "Sherpa Cleaning Drone Production",
       "eyebrow": "ROBOTICS \u2022 MANUFACTURING \u2022 ELECTROMECHANICAL",
       "card": "Ground-up assembly, wiring, testing, troubleshooting, and production improvement for Lucid Bots\u2019 commercial exterior-cleaning drone.",
@@ -113,7 +65,7 @@
     },
     {
       "id": "modular-skid",
-      "number": "03",
+      "number": "02",
       "title": "Modular Electrical Skid: Model to Field",
       "eyebrow": "REVIT \u2022 VDC \u2022 CONSTRUCTABILITY \u2022 FIELD ENGINEERING",
       "card": "A fast Revit ramp-up on a multi-hundred-million-dollar data center project, carrying modular skid work from submittal and modeling through fabrication and a field lift.",
@@ -165,6 +117,54 @@
         [
           "skid-lift.webp",
           "Completed skid suspended during field installation. Proprietary dimensions and client details are intentionally omitted."
+        ]
+      ],
+      "next": "assistive-robot.html"
+    },
+    {
+      "id": "assistive-navigation-robot",
+      "number": "03",
+      "title": "Assistive Navigation Robot",
+      "eyebrow": "ROBOTICS \u2022 MATLAB \u2022 ASSISTIVE DESIGN",
+      "card": "A six-month team project combining spatial detection, audible warnings, and separation alerts to support safer walking for a visually impaired user.",
+      "hero": "assistive-robot.webp",
+      "hero_alt": "Tracked classroom robot with sensors, microcontrollers, servos, wiring, and 3D printed components.",
+      "org": "University Coding Course",
+      "timeline": "Six-month design cycle",
+      "team": "Team of five",
+      "tools": [
+        "MATLAB",
+        "Sensor integration",
+        "COTS hardware",
+        "Mechanical assembly",
+        "Rapid prototyping"
+      ],
+      "challenge": "Create an affordable assistive device that could help a visually impaired person recognize nearby obstacles and alert a trusted contact if the user became separated from the robot. The project required our team to integrate code, sensors, electronics, mechanical assembly, and a simple user interaction into one working prototype.",
+      "role": "I worked on a five-person team through a full six-month design and build cycle. My responsibilities included assembly, component integration, MATLAB development, troubleshooting, test planning, and helping translate the accessibility concept into a functioning prototype.",
+      "process": [
+        [
+          "Define the user need",
+          "We chose an assistive walking concept rather than a general demonstration robot, which gave every design decision a clear purpose."
+        ],
+        [
+          "Integrate sensing and feedback",
+          "The robot used spatial detection to identify nearby obstacles and produce an audible warning as the user approached them."
+        ],
+        [
+          "Add separation monitoring",
+          "A tether or \u201cleash\u201d provided another safety layer. If the connection pulled away, the system initiated a message to a designated contact."
+        ],
+        [
+          "Test and refine",
+          "We repeatedly adjusted code, wiring, sensor behavior, and the physical layout until the hardware and software behaved as one system."
+        ]
+      ],
+      "outcome": "The prototype completed the required functions, and our team earned an A on the final project. More importantly, it showed me how mechanical systems, sensors, and software must be designed together around the person using them.",
+      "learning": "This was my steepest coding learning curve. I did not begin the project as a confident programmer, but six months of MATLAB development and hardware troubleshooting made me much more comfortable learning unfamiliar technical tools and contributing across disciplines.",
+      "gallery": [
+        [
+          "assistive-robot.webp",
+          "Final prototype showing the compact tracked platform, control electronics, sensors, wiring, and 3D printed mounting components."
         ]
       ],
       "next": "lavo-prototype.html"
@@ -332,7 +332,7 @@
         ]
       ],
       "document": "../assets/documents/Before the Recordable Capstone.pptx",
-      "next": "assistive-robot.html"
+      "next": "sherpa-drone.html"
     }
   ],
   "experience": [
@@ -355,6 +355,6 @@
       "summary": "Lead hands-on chapter construction and improvement work, coordinate event builds, and help manage an $8,000 Homecoming budget across materials, labor, schedule, and delivery."
     }
   ],
-  "version": "2.0",
+  "version": "2.2",
   "last_updated": "2026-07-21"
 }

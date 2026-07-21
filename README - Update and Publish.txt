@@ -1,3 +1,16 @@
+VERSION 2.1 FIX
+- Corrected the homepage contact information.
+- Restored the homepage footer and JavaScript include.
+- Removed visible template placeholders.
+- Added canonical and social-sharing metadata.
+
+FASTEST UPDATE
+1. Replace only index.html in the repository with the corrected index.html.
+2. Commit the change in GitHub Desktop.
+3. Push origin.
+4. Wait 1-3 minutes.
+5. Refresh the website with Ctrl + F5.
+
 DAWSON BUTLER PORTFOLIO VERSION 2
 
 WHAT THIS FOLDER CONTAINS
