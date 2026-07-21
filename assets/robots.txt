@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dawsgbutler-png.github.io/dawsgbutler.github.io/sitemap.xml
